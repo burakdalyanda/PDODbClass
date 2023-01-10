@@ -1,0 +1,21 @@
+{
+    "name": "burakdalyanda/PDODbClass",
+    "description": "This repository creates a simple and lightweight SQL query builder for PHP.",
+    "keywords": ["php", "pdo", "mysql", "sql", "pgsql", "querybuilder"],
+    "homepage": "https://github.com/burakdalyanda/PDODbClass",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Burak Dalyanda",
+            "email": "contact@burakdalyanda.dev",
+            "homepage": "https://www.burakdalyanda.dev"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {"PDOphc\\": "src/PDOphc"}
+    }
+}
