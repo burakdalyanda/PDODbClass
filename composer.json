@@ -1,5 +1,5 @@
 {
-    "name": "burakdalyanda/PDODbClass",
+    "name": "burakdalyanda/PDOphc",
     "description": "This repository creates a simple and lightweight SQL query builder for PHP.",
     "keywords": ["php", "pdo", "mysql", "sql", "pgsql", "querybuilder"],
     "homepage": "https://github.com/burakdalyanda/PDODbClass",
